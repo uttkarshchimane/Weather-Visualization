@@ -15,10 +15,3 @@ This project visualizes weather data using Python and Streamlit.
 - Seaborn
 - Streamlit
 
-## How to Run
-
-```bash
-git clone <your-repo-link>
-cd weather-visualization
-pip install -r requirements.txt
-streamlit run app.py
